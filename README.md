@@ -20,7 +20,6 @@ Pr = pt λ0 g1g2 / (4ΠS)2 where pt is transmitted power, pr is received power ,
 In the above equation pt ,pr ,s and can be measured and gain can be computed. As from the
 above equation it is not necessary to know the absolute value of pt and pr. Only ratio is required .which can be measured by VSWR meter.
 
-
 **PROCEDURE:**
 
 **A.ANTENNA RADIATION PATTERN:**
